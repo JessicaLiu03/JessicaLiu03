@@ -2,6 +2,10 @@
 
 <h2> Tech I have worked with: </h2>
 
+<div>
+<!-- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/> -->
+</div>
+
 <div align="center">
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java"           width="75" height="75"/> 
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python"     width="65" height="65"/>
@@ -23,6 +27,19 @@
       <img src="https://www.vectorlogo.zone/logos/lua/lua-icon.svg" width="65" height="65">
  
 </div>
+
+<div align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=jessicaliu03&theme=cobalt&hide_border=true">
+</div>
+
+<div align="center">
+<!--       <img src="https://github-readme-stats.vercel.app/api?username=jessicaliu03&theme=cobalt&show_icons=true&hide_border=true&count_private=true" > -->
+</div>
+
+<div align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicaliu03&theme=cobalt&show_icons=true&hide_border=true&layout=compact" >
+</div>
+
 
 <div>
 <!--   - 📖 Currently Reading: **The Alchemist** by Paul Coelho. -->
