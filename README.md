@@ -25,6 +25,7 @@
       <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="spring" width="65" height="65"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/c/c-plain.svg" width="65" height="65">
       <img src="https://www.vectorlogo.zone/logos/lua/lua-icon.svg" width="65" height="65">
+      <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" width="65" height="65">
  
 </div>
 
