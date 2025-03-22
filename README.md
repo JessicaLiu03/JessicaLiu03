@@ -1,5 +1,34 @@
 ## Hi there 👋
 
+<h2> Tech I have worked with: </h2>
+
+<div align="center">
+      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java"           width="75" height="75"/> 
+      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python"     width="65" height="65"/>
+<!--       <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="65" height="65"/> -->
+      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="65" height="65"/>
+      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="mongodb"  width="65" height="65"/>
+      <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="Nodejs"     width="65" height="65"/>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT"      width="65" height="65"/> 
+<!--       <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb"  width="65" height="75"/>
+      <img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" alt="mongodb"    width="75" height="75"/>
+      <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="65" height="75"/>
+      <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="golang" width="75" height="75"/>
+      <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="75" height="75"/>
+      <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="75" height="75"/>
+      <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="kubernetes" width="75" height="75"/> -->
+      <img src="https://bimi.entrust.net/ultralytics.com/logo.svg" alt="spring" width="65" height="65"/>
+      <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="spring" width="65" height="65"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/c/c-plain.svg" width="65" height="65">
+      <img src="https://www.vectorlogo.zone/logos/lua/lua-icon.svg" width="65" height="65">
+ 
+</div>
+
+<div>
+<!--   - 📖 Currently Reading: **The Alchemist** by Paul Coelho. -->
+</div>
+
+
 <!--
 **JessicaLiu03/JessicaLiu03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
