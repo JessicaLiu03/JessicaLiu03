@@ -38,7 +38,7 @@
 </div>
 
 <div align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicaliu03&theme=default&show_icons=true&hide_border=true&layout=compact" >
+<!--       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicaliu03&theme=default&show_icons=true&hide_border=true&layout=compact" > -->
 </div>
 
 <div>
